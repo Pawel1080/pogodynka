@@ -51,7 +51,8 @@ input{
     }
 h3, h2{
         color: rgba(9, 32, 238, 0.719);
-        font-size: 20px;
+        text-align: center;
+	font-size: 20px;
         padding: 10px;
        
     }
